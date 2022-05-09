@@ -3,8 +3,8 @@
 **This repository contains code and data used in the paper:**
 
 " Improving Computed Tomography (CT) Reconstruction via 3D Shape Induction" by \
-Elena Sizikova (York University),  \
-Xu Cao (York University),  \
+Elena Sizikova (New York University),  \
+Xu Cao (New York University),  \
 Ashia Lewis (The University of Alabama),  \
 Kenny Moise (Université Quisqueya), \
 Megan Coffee (NYU Grossman School of Medicine)
