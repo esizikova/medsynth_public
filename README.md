@@ -108,10 +108,11 @@ jupyter notebook evaluate_pretrained_models.ipynb
 
 # BibTeX
 ```
-@article{ShapeInductionSizikova22,
-title = {Improving Computed Tomography (CT) Reconstruction via 3D Shape Induction},
-year = {2022},
-author = {E. Sizikova and X. Cao and A. Lewis and K. Moise and M. Coffee},
+@article{sizikova2022improving,
+  title={Improving Computed Tomography (CT) Reconstruction via 3D Shape Induction},
+  author={Sizikova, Elena and Cao, Xu and Lewis, Ashia and Moise, Kenny and Coffee, Megan},
+  journal={arXiv preprint arXiv:2208.10937},
+  year={2022}
 }
 ```
 
